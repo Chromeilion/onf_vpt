@@ -14,3 +14,5 @@ Appendix: https://drive.google.com/file/d/1j4DF0vS0IS9DvKmDFiUCPawk0s6oxnWP/view
 Google Colab: https://colab.research.google.com/drive/1ELUdXTQi9cxSBjqaw0y8dZ-Dbquqxj74?usp=sharing
 
 YouTube playlist: https://youtube.com/playlist?list=PLyLgj1bgnXAc1SmWUDLV_OcTP6IGxkjZF&si=D-hGNBon7Vqjx3Fc
+
+{% include youtube.html id="h0KDyuaJoFM" %}
